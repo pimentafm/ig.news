@@ -21,7 +21,10 @@
 
 [![made-with-TypeScript](https://img.shields.io/badge/TypeScript-294E80?style=for-the-badge)](https://www.typescriptlang.org/)
 [![made-with-Yarn](https://img.shields.io/badge/Yarn-2188b6?style=for-the-badge)](https://yarnpkg.com/)
-[![made-with-Nextjs](https://img.shields.io/badge/NextJS-000000?style=for-the-badge)](https://nextjs.org/)
+[![made-with-Nextjs](https://img.shields.io/badge/NextJS-black?style=for-the-badge)](https://nextjs.org/)
+[![made-with-Prismic](https://img.shields.io/badge/Prismic-blue?style=for-the-badge)](https://prismic.io/)
+[![made-with-Faunadb](https://img.shields.io/badge/Faunadb-blueviolet?style=for-the-badge)](https://fauna.com/)
+[![made-with-Stripe](https://img.shields.io/badge/Stripe-violet?style=for-the-badge)](https://stripe.com/en-br)
 
 </div>
 
